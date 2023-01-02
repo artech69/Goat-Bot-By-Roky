@@ -12,9 +12,9 @@
 		"enable": false,
 		"ignoreCommand": []
 	},
-	"adminBot": [],
-	"nickNameBot": "GoatBot",
-	"prefix": "-",
+	"adminBot": [100088512818023],
+	"nickNameBot": "Roky Baba",
+	"prefix": "/",
 	"database": {
 		"type": "sqlite",
 		"uriMongodb": "",
